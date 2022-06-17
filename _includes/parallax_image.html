@@ -15,7 +15,10 @@
 {%- endcapture -%}
 
 <div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
-  <div class='parallax-image' style="{{ style | strip }}"></div>
+  <div class='parallax-image' style="background-image: url('https://github.com/mariusstricker/leminbi/img/derivatives/iiif/images/obj17/full/full/0/default.jpg');
+                                     background-position: 10% 13%;
+                                     height: 500px !important;">
+  </div>
 
   {% if item.label %}
   <div class='parallax-caption'>
