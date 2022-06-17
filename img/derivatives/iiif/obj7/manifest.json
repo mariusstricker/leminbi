@@ -6,7 +6,7 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj7/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj7",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/192,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
@@ -18,9 +18,9 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj7.json",
           "label": "front",
-          "width": 3927,
-          "height": 5810,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+          "width": 5451,
+          "height": 7116,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/192,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
@@ -35,8 +35,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 3927,
-                "height": 5810
+                "width": 5451,
+                "height": 7116
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj7.json"
             }
@@ -46,5 +46,5 @@ layout: none
     }
   ],
   "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj7/full/873,/0/default.jpg"
 }

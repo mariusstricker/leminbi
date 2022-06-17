@@ -9,9 +9,9 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj9.json",
       "label": "front",
-      "width": 2501,
-      "height": 3924,
-      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+      "width": 5876,
+      "height": 7082,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj9/full/207,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
@@ -26,8 +26,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj9",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 2501,
-            "height": 3924
+            "width": 5876,
+            "height": 7082
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj9.json"
         }
