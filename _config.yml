@@ -20,7 +20,7 @@
 
 title:            'Leminbi'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'http://127.0.0.1:4000'
+url:              'https://mariusstricker.github.io'
 baseurl:          '/leminbi'
 copyright:        'Copyright 2022'
 logo:             '/assets/logo.png'
