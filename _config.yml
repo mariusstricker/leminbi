@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Leminbi'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'Virtuelle Ausstellung historischer Glasdias'
 url:              'https://mariusstricker.github.io'
 baseurl:          '/leminbi'
 copyright:        'Copyright 2022'
