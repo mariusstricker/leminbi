@@ -2,9 +2,9 @@
 pid: Obj2
 artist: unknown
 location: unknown
-label: Bittersuesser Nachtschatten Solanum dulcamara
+label: Bittersüsser Nachtschatten | Solanum dulcamara
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blau
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj2.jpg
 order: '01'
