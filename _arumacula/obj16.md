@@ -2,9 +2,9 @@
 pid: Obj16
 artist: unknown
 location: unknown
-label: Gestreifter Seidelbast Daphne striata
+label: Gestreifter Seidelbast | Daphne striata
 _date: 1925-1950
-object_type: Glasdia
+object_type: Lila/Violett
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj16.jpg
 order: '15'
