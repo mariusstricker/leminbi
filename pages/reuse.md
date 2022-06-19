@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Reuse the Collection
+title: Nachnutzung
 permalink: /reuse/
 collection: arumacula
 ---
 
-Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
-
-The demo site comes with a specific `_include` called `interactive_metadata_table` to help you make pages like this one complete with interactive [DataTables](https://datatables.net/) and downloadable CSVs of collection metadata.
+Die virtuelle Ausstellung Leminbi basiert auf den [FAIR Principles](https://www.go-fair.org/fair-principles/) der GO FAIR Initiative. Alle Exponate, Metadaten und IIIF-Manifesten sind "findable, accessible, interoperable and reusable". Für die Nachnutzung der gesamten Sammlung steht hier ein CSV-File zur Verfügung. Die enthaltenen IIIF-URI zu Manifest, Thumbnail und Image-API beziehen sich auf das gleichnamige GitHub-Repositorium [Leminbi](https://github.com/mariusstricker/leminbi) und müssen entsprechend ergänzt werden (Beispiel: https://github.com/mariusstricker/leminbi/img/derivatives/iiif/obj1/manifest.json).
 
 {% include interactive_metadata_table.html collection=page.collection %}
