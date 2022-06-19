@@ -2,9 +2,9 @@
 pid: Obj13
 artist: unknown
 location: unknown
-label: Fruehlings-Platterbse Orobus vernus
+label: Frühlings-Platterbse | Orobus vernus
 _date: 1925-1950
-object_type: Glasdia
+object_type: Lila/Violett
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj13.jpg
 order: '12'
