@@ -2,9 +2,9 @@
 pid: Obj6
 artist: unknown
 location: unknown
-label: Echtes Labkraut Galium verum
+label: Echtes Labkraut | Galium verum
 _date: 1925-1950
-object_type: Glasdia
+object_type: Gelb
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj6.jpg
 order: '05'
