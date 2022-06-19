@@ -2,9 +2,9 @@
 pid: Obj7
 artist: unknown
 location: unknown
-label: Einjahrs-Knaeuelkraut Scleranthus annuus
+label: Einjahrs-Knäuelkraut | Scleranthus annuus
 _date: 1925-1950
-object_type: Glasdia
+object_type: Gelb
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj7.jpg
 order: '06'
