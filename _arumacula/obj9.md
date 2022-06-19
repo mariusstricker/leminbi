@@ -2,9 +2,9 @@
 pid: Obj9
 artist: unknown
 location: unknown
-label: Essbare Kastanie Castanea vesca
+label: Essbare Kastanie | Castanea vesca
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blütenlos
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj9.jpg
 order: '08'
