@@ -2,9 +2,9 @@
 pid: Obj19
 artist: unknown
 location: unknown
-label: Heidelbeere Vaccinium myrtillus
+label: Heidelbeere | Vaccinium myrtillus
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blütenlos
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj19.jpg
 order: '18'
