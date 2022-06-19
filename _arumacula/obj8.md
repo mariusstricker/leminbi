@@ -2,9 +2,9 @@
 pid: Obj8
 artist: unknown
 location: unknown
-label: Eisenhutblaettriger Hahnenfuss Ranunculus aconitifolius
+label: Eisenhutblättriger Hahnenfuss | Ranunculus aconitifolius
 _date: 1925-1950
-object_type: Glasdia
+object_type: Weiss
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj8.jpg
 order: '07'
