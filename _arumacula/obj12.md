@@ -2,9 +2,9 @@
 pid: Obj12
 artist: unknown
 location: unknown
-label: Fruehlings-Knotenblume Leucojum vernum
+label: Frühlings-Knotenblume | Leucojum vernum
 _date: 1925-1950
-object_type: Glasdia
+object_type: Weiss
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj12.jpg
 order: '11'
