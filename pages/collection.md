@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leminbi: Sammlung und Metadaten
+title: Sammlung und Metadaten
 permalink: /collection/
 ---
 
