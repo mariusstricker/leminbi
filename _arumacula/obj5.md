@@ -2,9 +2,9 @@
 pid: Obj5
 artist: unknown
 location: unknown
-label: Echter Wunderklee Anthyllis vulneraria
+label: Echter Wunderklee | Anthyllis vulneraria
 _date: 1925-1950
-object_type: Glasdia
+object_type: Gelb
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj5.jpg
 order: '04'
