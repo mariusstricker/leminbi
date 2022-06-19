@@ -2,9 +2,9 @@
 pid: Obj14
 artist: unknown
 location: unknown
-label: Gamander-Ehrenpreis Veronica Chamaedrys
+label: Gamander-Ehrenpreis | Veronica Chamaedrys
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blau
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj14.jpg
 order: '13'
