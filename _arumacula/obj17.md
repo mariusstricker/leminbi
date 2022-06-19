@@ -2,9 +2,9 @@
 pid: Obj17
 artist: unknown
 location: unknown
-label: Gewoehnlicher Kratzdistel Cirsium lanceolatum
+label: Gewöhnlicher Kratzdistel | Cirsium lanceolatum
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blau
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj17.jpg
 order: '16'
