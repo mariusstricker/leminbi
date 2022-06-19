@@ -20,5 +20,7 @@ Die Pflanzendias in dieser Ausstellung wurden nach dem IIIF-Standard (gesprochen
 **GitHub**
 Die Aufbereitung der IIIF-konformen digitalen Glasdia erfolgte mit [Annonatate](https://annonatate.herokuapp.com/profile/?tab=status) und dem Workflow [Wax](https://github.com/minicomp/wax/) von [Minicomp](https://github.com/minicomp). Alle Files zu dieser Ausstellung sind auf GitHub im [Leminbi-Repository](https://github.com/mariusstricker/leminbi) offen zugänglich (s. auch Realisierung).
 
+
 **Lizenzen**
+
 Alle Elemente dieser Website sind offen nachnutzbar, für Bilder und Websiteinhalte gilt ([CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en), Creative Commons Attribution 4.0 International), für den verwendeten Wax-Workflow die [MIT-Lizenz](https://github.com/minicomp/wax/blob/main/LICENSE.txt) und das Git-Repository die [GNU Public General Public License v2.0](https://de.wikipedia.org/wiki/GNU_General_Public_License).
