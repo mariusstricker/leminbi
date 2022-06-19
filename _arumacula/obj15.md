@@ -2,9 +2,9 @@
 pid: Obj15
 artist: unknown
 location: unknown
-label: Gefleckter Aronstab Arum maculatum
+label: Gefleckter Aronstab | Arum maculatum
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blütenlos
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj15.jpg
 order: '14'
