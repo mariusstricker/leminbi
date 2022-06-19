@@ -4,7 +4,7 @@ title: Sammlung
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Die Sammlung umfasst 20 Glasdia, die in der Ansicht nach Farbkategorie respektive Blütenlos gefiltert werden können. Mit einem Klick auf die Glasdia öffnet sich ein Image Viewer ([Openseadragon](https://openseadragon.github.io/)). Unterhalb des Viewers befinden sie jeweils die Metadaten und Hyperlinks zu den IIIF-Manifeste der einzelnen Glasdias. Für eine vergleichende Bildanalyse mittels Image-API empfiehlt sich der [Mirador Viewer](https://projectmirador.org/), für Annotationen eignet sich [Annonatate](https://annonatate.herokuapp.com/) oder der IIIF-Manifest-Editor von [text&bytes](https://iiif-manifest-editor.textandbytes.com/) und [Bodleian](https://digital.bodleian.ox.ac.uk/manifest-editor). Über diesen Editor können IIIF-Manifeste auch lokal (localhost:3000[http://localhost:3000]) bearbeitet werden, eine Installation dafür befindet sich auf in diesem [GitHub-Repository](https://github.com/bodleian/iiif-manifest-editor/).
 
 
 {% include collection_gallery.html collection='arumacula' facet_by='object_type' %}
