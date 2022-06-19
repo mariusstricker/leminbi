@@ -2,9 +2,9 @@
 pid: Obj11
 artist: unknown
 location: unknown
-label: Flatter-Binse Juncus effusus
+label: Flatter-Binse | Juncus effusus
 _date: 1925-1950
-object_type: Glasdia
+object_type: Blütenlos
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj11.jpg
 order: '10'
