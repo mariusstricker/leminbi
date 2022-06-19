@@ -1,8 +1,11 @@
 ---
 layout: page
-title: What is Wax?
+title: Virtuelle Ausstellung
 permalink: /about/
 ---
+
+Leminbi ist ein Fantasiename, angelehnt an [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)), ein Videogame aus den 1990er Jahren. Was aber haben pixelige Wuselkreaturen mit Pflanzendias zu tun? Gar nichts. Doch wenn bedacht wird, dass der *Erbauer* dieser Website keine Ahnung von den effektiven Rechenkapazitäten und -schwindigkeiten eines Computers hatte und dann beginnt mit einem Terminal (Git Bash) zu arbeiten, wird diese Verbindung möglicherweise etwas verständlicher. Denn ein Befehl genügt, zum Beispiel *git -push* um ein lokales Directory auf ein Git-Repository hochzuspielen, und abertausende Arbeitsschritte werden in kürzester Zeit ausfgeführt, akkurat rapportiert im Terminal und unmöglich für das menschliche Gehirn auch nur annähernd mitlesen zu können. Was nichts anderes bedeuten kann, als dass die Lemmings nich wie bis anhin gedacht, unter der Erde leben und von Aufgabe zu Aufgabe eilen, so wie sie es im Game tun, sondern sie wohnen ganz eindeutig in Computern. 
+
 
 **Wax helps you create digital exhibits.**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
