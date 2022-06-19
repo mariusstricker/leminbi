@@ -2,9 +2,9 @@
 pid: Obj10
 artist: unknown
 location: unknown
-label: Feld-Kranzenzian Gentiana campestris
+label: Feld-Kranzenzian | Gentiana campestris
 _date: 1925-1950
-object_type: Glasdia
+object_type: Lila/Violett
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj10.jpg
 order: '09'
