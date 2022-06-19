@@ -2,9 +2,9 @@
 pid: Obj1
 artist: unknown
 location: unknown
-label: Ackerstiefmuetterchen Viola arvensis
+label: Ackerstiefmütterchen | Viola arvensis
 _date: 1925-1959
-object_type: Glasdia
+object_type: Blau
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj1.jpg
 order: '00'
