@@ -2,9 +2,9 @@
 pid: Obj18
 artist: unknown
 location: unknown
-label: Grosse Kreuzblume Polygala major
+label: Grosse Kreuzblume | Polygala major
 _date: 1925-1950
-object_type: Glasdia
+object_type: Lila/Violett
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj18.jpg
 order: '17'
