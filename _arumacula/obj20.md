@@ -2,9 +2,9 @@
 pid: Obj20
 artist: unknown
 location: unknown
-label: Hohe Schluesselblume Primula elatior
+label: Hohe Schlüsselblume | Primula elatior
 _date: 1925-1950
-object_type: Glasdia
+object_type: Gelb
 current_location: Stiftung Pestalozzianum
 source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj20.jpg
 order: '19'
