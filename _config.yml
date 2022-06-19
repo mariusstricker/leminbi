@@ -108,7 +108,7 @@ menu:
       - label: 'Leminbi'
         link: '/about/'
       - label: 'Realisation'
-        link: 'https://minicomp.github.io/wiki/wax/'
+        link: 'https://mariusstricker.github.io/waabl'
       - label: 'Wax/Minicomp'
         link: '/credits/'
   - label: 'Sammlung'
