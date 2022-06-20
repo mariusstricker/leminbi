@@ -125,12 +125,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://mariusstricker.github.io/waabl'
+    - label: 'Dokumentation'
+      link:   'https://mariusstricker.github.io/waabl'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'www.linkedin.com/in/marius-stricker-8b1a61138'
+      link:   'www.linkedin.com/in/marius-stricker-8b1a61138'
   logos:
     - img: '/img/logo.png'
 
