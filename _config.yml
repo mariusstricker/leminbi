@@ -126,11 +126,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://mariusstricker.github.io/waabl'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'www.linkedin.com/in/marius-stricker-8b1a61138'
   logos:
     - img: '/img/logo.png'
 
